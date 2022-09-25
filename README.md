@@ -45,5 +45,5 @@ gcc -ansi -Wall database.c -o database
 ## Author
 
 Suraj Rohira
-
-Contact: suraj.rohira0@gmail.com
+* LinkedIn - https://www.linkedin.com/in/suraj-rohira/
+* Gmail - suraj.rohira0@gmail.com
